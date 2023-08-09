@@ -8,3 +8,7 @@ Setup folder structure for javascript projects
 5. Create a style.css file for each project
 6. Each project should have a folder for images and other assets
 7. Each project should have Github Pages for web hosting
+
+
+Nasa Pod - Fetch, Async/Await, NASA API, DOM, localStorage A web app that fetches the astronomy picture of the day from the NASA API and displays it on the page using advanced concepts such as asynchronous programming, working with the DOM, and using localStorage.
+Project website: https://rchursin.github.io/nasa_apod/
