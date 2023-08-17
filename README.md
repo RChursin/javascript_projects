@@ -10,3 +10,7 @@ Math Sprint - SetInterval, DOM, Array Methods, localStorage A fun and challengin
 
 Calculator - Math Methods A classic web application that demonstrates the power of math methods in JavaScript, with basic functionality such as addition, subtraction, multiplication, and division. It teaches important concepts such as working with HTML forms, handling events, and using math methods in JavaScript.
 - Project website: https://rchursin.github.io/calculator/
+
+
+Quote Generator - Fetch, Async/Await, Quote API, CORS Generates inspirational quotes using the Fetch API, Async/Await, and CORS to retrieve quotes from an external API.
+- Project website: https://rchursin.github.io/quote_generator/
