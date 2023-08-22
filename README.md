@@ -14,3 +14,7 @@ Calculator - Math Methods A classic web application that demonstrates the power 
 
 Quote Generator - Fetch, Async/Await, Quote API, CORS Generates inspirational quotes using the Fetch API, Async/Await, and CORS to retrieve quotes from an external API.
 - Project website: https://rchursin.github.io/quote_generator/
+
+
+Splash Page - DOM Basics A simple landing page that showcases the basics of working with the DOM in JavaScript. It teaches important concepts such as manipulating HTML and CSS using JavaScript and handling events to create an interactive user experience.
+- Project website: https://rchursin.github.io/splash_page/
