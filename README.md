@@ -18,3 +18,7 @@ Quote Generator - Fetch, Async/Await, Quote API, CORS Generates inspirational qu
 
 Splash Page - DOM Basics A simple landing page that showcases the basics of working with the DOM in JavaScript. It teaches important concepts such as manipulating HTML and CSS using JavaScript and handling events to create an interactive user experience.
 - Project website: https://rchursin.github.io/splash_page/
+
+
+Picture in Picture - Screen Capture API Opens a video in Picture-in-Picture mode by capturing a portion of the screen using the Screen Capture API.
+- Project website: https://rchursin.github.io/picture_picture/
