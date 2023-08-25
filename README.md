@@ -22,3 +22,6 @@ Splash Page - DOM Basics A simple landing page that showcases the basics of work
 
 Picture in Picture - Screen Capture API Opens a video in Picture-in-Picture mode by capturing a portion of the screen using the Screen Capture API.
 - Project website: https://rchursin.github.io/picture_picture/
+
+Paint Clone - Advanced HTML Canvas, localStorage A sophisticated HTML canvas application that allows users to draw and save their artwork using localStorage. It demonstrates the power and versatility of the HTML canvas element and teaches important concepts such as handling events, working with arrays, and using browser storage.
+- Project website: https://rchursin.github.io/paint_clone/
