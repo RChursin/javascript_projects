@@ -25,3 +25,7 @@ Picture in Picture - Screen Capture API Opens a video in Picture-in-Picture mode
 
 Paint Clone - Advanced HTML Canvas, localStorage A sophisticated HTML canvas application that allows users to draw and save their artwork using localStorage. It demonstrates the power and versatility of the HTML canvas element and teaches important concepts such as handling events, working with arrays, and using browser storage.
 - Project website: https://rchursin.github.io/paint_clone/
+
+
+Infinity Scroll - Fetch, Async/Await, Unsplash API, DOM, Scroll Event Listener Displays an infinite scroll of images by dynamically loading images from the Unsplash API using the Fetch API, Async/Await, and the DOM and Scroll Event Listener.
+- Project website: https://rchursin.github.io/infinity_scroll/
