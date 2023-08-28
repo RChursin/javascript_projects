@@ -29,3 +29,7 @@ Paint Clone - Advanced HTML Canvas, localStorage A sophisticated HTML canvas app
 
 Infinity Scroll - Fetch, Async/Await, Unsplash API, DOM, Scroll Event Listener Displays an infinite scroll of images by dynamically loading images from the Unsplash API using the Fetch API, Async/Await, and the DOM and Scroll Event Listener.
 - Project website: https://rchursin.github.io/infinity_scroll/
+
+
+Joke Teller - Fetch, Async/Await, Joke API, Text-to-Speech Tells jokes by retrieving them from an external Joke API using the Fetch API and Async/Await, and voices the jokes aloud using Text-to-Speech.
+- Project website: https://rchursin.github.io/joke_teller/
