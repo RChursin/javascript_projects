@@ -33,3 +33,7 @@ Infinity Scroll - Fetch, Async/Await, Unsplash API, DOM, Scroll Event Listener D
 
 Joke Teller - Fetch, Async/Await, Joke API, Text-to-Speech Tells jokes by retrieving them from an external Joke API using the Fetch API and Async/Await, and voices the jokes aloud using Text-to-Speech.
 - Project website: https://rchursin.github.io/joke_teller/
+
+
+Light & Dark Mode - DOM, localStorage Lets users switch between light and dark modes by dynamically switching the color scheme using the DOM, and stores their preference using localStorage.
+- Project website: https://rchursin.github.io/light_dark_mode/
