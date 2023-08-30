@@ -37,3 +37,7 @@ Joke Teller - Fetch, Async/Await, Joke API, Text-to-Speech Tells jokes by retrie
 
 Light & Dark Mode - DOM, localStorage Lets users switch between light and dark modes by dynamically switching the color scheme using the DOM, and stores their preference using localStorage.
 - Project website: https://rchursin.github.io/light_dark_mode/
+
+
+Animated - Template, AOS.js A visually stunning and responsive web app built with a template and AOS.js.
+- Project website: https://rchursin.github.io/animated_template/
