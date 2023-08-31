@@ -41,3 +41,7 @@ Light & Dark Mode - DOM, localStorage Lets users switch between light and dark m
 
 Animated - Template, AOS.js A visually stunning and responsive web app built with a template and AOS.js.
 - Project website: https://rchursin.github.io/animated_template/
+
+
+Navigation Nation - CSS Animations An interactive web app featuring captivating CSS animations and smooth transitions.
+- Project website: https://rchursin.github.io/navigation_nation/
