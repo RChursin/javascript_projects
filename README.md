@@ -45,3 +45,7 @@ Animated - Template, AOS.js A visually stunning and responsive web app built wit
 
 Navigation Nation - CSS Animations An interactive web app featuring captivating CSS animations and smooth transitions.
 - Project website: https://rchursin.github.io/navigation_nation/
+
+
+Custom Countdown - Date, localStorage A sleek and customizable countdown web app that utilizes the Date object and localStorage.
+- Projects website: https://rchursin.github.io/custom_countdown/
