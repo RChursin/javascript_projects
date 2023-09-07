@@ -54,3 +54,7 @@ Custom Countdown - Date, localStorage A sleek and customizable countdown web app
 Drag and Drop - Drag and Drop API, localStorage
 A web app that showcases the power of the HTML Drag and Drop API by allowing users to drag and drop items between two lists and saves their preferences using localStorage. It teaches important concepts such as working with the DOM, handling events, and using browser storage.
 - Project website: https://rchursin.github.io/drag_n_drop/
+
+
+Book Keeper - DOM, localStorage A tool to keep track of reading lists using DOM manipulation and localStorage.
+- Project website: https://rchursin.github.io/book_keeper/
