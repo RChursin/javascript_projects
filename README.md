@@ -58,3 +58,7 @@ A web app that showcases the power of the HTML Drag and Drop API by allowing use
 
 Book Keeper - DOM, localStorage A tool to keep track of reading lists using DOM manipulation and localStorage.
 - Project website: https://rchursin.github.io/book_keeper/
+
+
+Spock Rock Game - Confetti.js, Modules A fun game built with pure JavaScript, HTML, and CSS, featuring Confetti.js and Modules.
+- Project website: https://rchursin.github.io/spock_rock_game/
