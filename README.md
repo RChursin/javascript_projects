@@ -62,3 +62,8 @@ Book Keeper - DOM, localStorage A tool to keep track of reading lists using DOM 
 
 Spock Rock Game - Confetti.js, Modules A fun game built with pure JavaScript, HTML, and CSS, featuring Confetti.js and Modules.
 - Project website: https://rchursin.github.io/spock_rock_game/
+
+
+Form Validator - HTML5, CSS3, JavaScript
+A convenient form validation tool that validates input fields and displays error messages in real-time using pure JavaScript, HTML5, and CSS3.
+- Project Site: https://rchursin.github.io/form_validator/
