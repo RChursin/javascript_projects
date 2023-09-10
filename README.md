@@ -67,3 +67,8 @@ Spock Rock Game - Confetti.js, Modules A fun game built with pure JavaScript, HT
 Form Validator - HTML5, CSS3, JavaScript
 A convenient form validation tool that validates input fields and displays error messages in real-time using pure JavaScript, HTML5, and CSS3.
 - Project Site: https://rchursin.github.io/form_validator/
+
+
+Ping Pong - Advanced HTML Canvas
+A fun and challenging game that showcases the power of the HTML canvas element. It features collision detection and object movement in 2D space, and allows you to control your paddle with ease. The game is played against the computer, and you must score as many points as possible to win. It has retro graphics and addictive gameplay.
+- Project website: https://rchursin.github.io/ui_pong/
