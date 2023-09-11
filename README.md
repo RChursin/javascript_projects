@@ -1,14 +1,17 @@
 # Javascript Projects:
 
-Nasa Pod - Fetch, Async/Await, NASA API, DOM, localStorage A web app that fetches the astronomy picture of the day from the NASA API and displays it on the page using advanced concepts such as asynchronous programming, working with the DOM, and using localStorage.
+Nasa Pod - Fetch, Async/Await, NASA API, DOM, localStorage 
+A web app that fetches the astronomy picture of the day from the NASA API and displays it on the page using advanced concepts such as asynchronous programming, working with the DOM, and using localStorage.
 - Project website: https://rchursin.github.io/nasa_apod/
 
 
-Math Sprint - SetInterval, DOM, Array Methods, localStorage A fun and challenging game that tests your math skills by presenting a series of questions with a timer. It uses concepts such as setInterval, working with arrays, and dynamically updating the DOM.
+Math Sprint - SetInterval, DOM, Array Methods, localStorage 
+A fun and challenging game that tests your math skills by presenting a series of questions with a timer. It uses concepts such as setInterval, working with arrays, and dynamically updating the DOM.
 - Project website: https://rchursin.github.io/math_sprint/
 
 
-Calculator - Math Methods A classic web application that demonstrates the power of math methods in JavaScript, with basic functionality such as addition, subtraction, multiplication, and division. It teaches important concepts such as working with HTML forms, handling events, and using math methods in JavaScript.
+Calculator - Math Methods 
+A classic web application that demonstrates the power of math methods in JavaScript, with basic functionality such as addition, subtraction, multiplication, and division. It teaches important concepts such as working with HTML forms, handling events, and using math methods in JavaScript.
 - Project website: https://rchursin.github.io/calculator/
 
 
@@ -16,14 +19,16 @@ Quote Generator - Fetch, Async/Await, Quote API, CORS Generates inspirational qu
 - Project website: https://rchursin.github.io/quote_generator/
 
 
-Splash Page - DOM Basics A simple landing page that showcases the basics of working with the DOM in JavaScript. It teaches important concepts such as manipulating HTML and CSS using JavaScript and handling events to create an interactive user experience.
+Splash Page - DOM Basics 
+A simple landing page that showcases the basics of working with the DOM in JavaScript. It teaches important concepts such as manipulating HTML and CSS using JavaScript and handling events to create an interactive user experience.
 - Project website: https://rchursin.github.io/splash_page/
 
 
 Picture in Picture - Screen Capture API Opens a video in Picture-in-Picture mode by capturing a portion of the screen using the Screen Capture API.
 - Project website: https://rchursin.github.io/picture_picture/
 
-Paint Clone - Advanced HTML Canvas, localStorage A sophisticated HTML canvas application that allows users to draw and save their artwork using localStorage. It demonstrates the power and versatility of the HTML canvas element and teaches important concepts such as handling events, working with arrays, and using browser storage.
+Paint Clone - Advanced HTML Canvas, localStorage 
+A sophisticated HTML canvas application that allows users to draw and save their artwork using localStorage. It demonstrates the power and versatility of the HTML canvas element and teaches important concepts such as handling events, working with arrays, and using browser storage.
 - Project website: https://rchursin.github.io/paint_clone/
 
 
@@ -39,15 +44,18 @@ Light & Dark Mode - DOM, localStorage Lets users switch between light and dark m
 - Project website: https://rchursin.github.io/light_dark_mode/
 
 
-Animated - Template, AOS.js A visually stunning and responsive web app built with a template and AOS.js.
+Animated - Template, AOS.js 
+A visually stunning and responsive web app built with a template and AOS.js.
 - Project website: https://rchursin.github.io/animated_template/
 
 
-Navigation Nation - CSS Animations An interactive web app featuring captivating CSS animations and smooth transitions.
+Navigation Nation - CSS Animations 
+An interactive web app featuring captivating CSS animations and smooth transitions.
 - Project website: https://rchursin.github.io/navigation_nation/
 
 
-Custom Countdown - Date, localStorage A sleek and customizable countdown web app that utilizes the Date object and localStorage.
+Custom Countdown - Date, localStorage 
+A sleek and customizable countdown web app that utilizes the Date object and localStorage.
 - Projects website: https://rchursin.github.io/custom_countdown/
 
 
@@ -56,11 +64,13 @@ A web app that showcases the power of the HTML Drag and Drop API by allowing use
 - Project website: https://rchursin.github.io/drag_n_drop/
 
 
-Book Keeper - DOM, localStorage A tool to keep track of reading lists using DOM manipulation and localStorage.
+Book Keeper - DOM, localStorage 
+A tool to keep track of reading lists using DOM manipulation and localStorage.
 - Project website: https://rchursin.github.io/book_keeper/
 
 
-Spock Rock Game - Confetti.js, Modules A fun game built with pure JavaScript, HTML, and CSS, featuring Confetti.js and Modules.
+Spock Rock Game - Confetti.js, Modules 
+A fun game built with pure JavaScript, HTML, and CSS, featuring Confetti.js and Modules.
 - Project website: https://rchursin.github.io/spock_rock_game/
 
 
@@ -74,5 +84,6 @@ A fun and challenging game that showcases the power of the HTML canvas element. 
 - Project website: https://rchursin.github.io/ui_pong/
 
 
-Video Player - HTML 5 Video API A customizable HTML5 video player that adds interactive functionality using the HTML5 video element and JavaScript.
+Video Player - HTML 5 Video API 
+A customizable HTML5 video player that adds interactive functionality using the HTML5 video element and JavaScript.
 - Project website: https://rchursin.github.io/video_player/
