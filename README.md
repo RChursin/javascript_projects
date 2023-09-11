@@ -15,7 +15,8 @@ A classic web application that demonstrates the power of math methods in JavaScr
 - Project website: https://rchursin.github.io/calculator/
 
 
-Quote Generator - Fetch, Async/Await, Quote API, CORS Generates inspirational quotes using the Fetch API, Async/Await, and CORS to retrieve quotes from an external API.
+Quote Generator - Fetch, Async/Await, Quote API, CORS  
+Generates inspirational quotes using the Fetch API, Async/Await, and CORS to retrieve quotes from an external API.
 - Project website: https://rchursin.github.io/quote_generator/
 
 
@@ -32,15 +33,18 @@ A sophisticated HTML canvas application that allows users to draw and save their
 - Project website: https://rchursin.github.io/paint_clone/
 
 
-Infinity Scroll - Fetch, Async/Await, Unsplash API, DOM, Scroll Event Listener Displays an infinite scroll of images by dynamically loading images from the Unsplash API using the Fetch API, Async/Await, and the DOM and Scroll Event Listener.
+Infinity Scroll - Fetch, Async/Await, Unsplash API, DOM, Scroll Event Listener  
+Displays an infinite scroll of images by dynamically loading images from the Unsplash API using the Fetch API, Async/Await, and the DOM and Scroll Event Listener.
 - Project website: https://rchursin.github.io/infinity_scroll/
 
 
-Joke Teller - Fetch, Async/Await, Joke API, Text-to-Speech Tells jokes by retrieving them from an external Joke API using the Fetch API and Async/Await, and voices the jokes aloud using Text-to-Speech.
+Joke Teller - Fetch, Async/Await, Joke API, Text-to-Speech  
+Tells jokes by retrieving them from an external Joke API using the Fetch API and Async/Await, and voices the jokes aloud using Text-to-Speech.
 - Project website: https://rchursin.github.io/joke_teller/
 
 
-Light & Dark Mode - DOM, localStorage Lets users switch between light and dark modes by dynamically switching the color scheme using the DOM, and stores their preference using localStorage.
+Light & Dark Mode - DOM, localStorage  
+Lets users switch between light and dark modes by dynamically switching the color scheme using the DOM, and stores their preference using localStorage.
 - Project website: https://rchursin.github.io/light_dark_mode/
 
 
