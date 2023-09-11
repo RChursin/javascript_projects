@@ -72,3 +72,7 @@ A convenient form validation tool that validates input fields and displays error
 Ping Pong - Advanced HTML Canvas
 A fun and challenging game that showcases the power of the HTML canvas element. It features collision detection and object movement in 2D space, and allows you to control your paddle with ease. The game is played against the computer, and you must score as many points as possible to win. It has retro graphics and addictive gameplay.
 - Project website: https://rchursin.github.io/ui_pong/
+
+
+Video Player - HTML 5 Video API A customizable HTML5 video player that adds interactive functionality using the HTML5 video element and JavaScript.
+- Project website: https://rchursin.github.io/video_player/
