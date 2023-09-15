@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Inconsolata:wght@200;400&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: url("https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif");
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-family: 'Inconsolata', monospace;
+    font-size: 14px;
+}
+
+.player-container {
+    height: 500px;
+    width: 400px;
+    background: linear-gradient(to right, rgb(206, 187, 211), rgb(162, 191, 99));
+    border-radius: 20px;
+    box-shadow: 0 15px 30px 5px rgba(0, 0, 0, 0.3);
+}
+
+.img-container {
+    height: 300px;
+    width: 300px;
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+
+.img-container img {
+    height: 90%;
+    width: 90%;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Progress Bar */
+
+.progress-container {
+    background: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 40px 20px;
+    height: 4px;
+    width: 90%;
+}
+
+.progress {
+    background: #242323;
+    border-radius: 5px;
+    height: 100%;
+    width: 0%;
+    transition: width0.1s linear;
+}
+
+.duration-wrapper {
+    position: relative;
+    top: -25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Controls */
+
+.player-controls {
+    position: relative;
+    top: -15px;
+    left: 120px;
+    width: 200px;
+}
+
+.fas {
+    font-size: 30px;
+    color: rgb(129, 129, 129);
+    margin-right: 30px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.fas:hover {
+    filter: brightness(80%);
+}
+
+.main-button {
+    font-size: 40px;
+    position: relative;
+    top: 3px;
+}
+
+/* Media Query: Iphone (Vertical) */
+@media screen and (max-width: 376px) {
+
+    .player-container {
+        width: 95vw;
+    }
+
+    .img-container {
+        height: 200px;
+        width: 200px;
+        top: -30px;
+        left: 50px;
+    }
+}
+
+
