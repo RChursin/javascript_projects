@@ -91,3 +91,8 @@ A fun and challenging game that showcases the power of the HTML canvas element. 
 Video Player - HTML 5 Video API  
 A customizable HTML5 video player that adds interactive functionality using the HTML5 video element and JavaScript.
 - Project website: https://rchursin.github.io/video_player/
+
+
+Music Player - HTML 5 Audio API  
+A feature-rich and customizable music player that leverages the HTML 5 Audio API and modern JavaScript technologies.
+- Project website: https://rchursin.github.io/own_music_player/
